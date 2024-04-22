@@ -59,3 +59,4 @@ def get_time(val):
 
 for i in range(nodes):
     print(f'Time for Node {chr(97 + i)} : ', get_time(ls[i]))
+
